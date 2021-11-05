@@ -9,7 +9,7 @@ Computational code is in Fortran 90; compiled using gfortran.
 
 This repository was created to allow a single DOI for publication of the thesis, and as such, contains several different git repositories, each in a branch. 
 
-
+![alt text](https://www.st-andrews.ac.uk/assets/university/brand/logos/standard-vertical-black.png)
 
       
 
