@@ -6,6 +6,10 @@ This repository contains the code underpinning Isla Barnard's PhD Thesis:
 ![alt text](https://github.com/i-brnrd/code_underpinning_PhD_thesis/blob/main/images_mainrepo/smaller.png?raw=true)
 
 Or explain the other route; undecided. 
+--EXPLAIN OTHER ROUTE
+
+
+--PURE DATASETS 
 This repository was created to allow creation of a single DOI for the code underpinning the thesis. As such, this single repo contains code from several different individual git repositories. Each repo resides in an orphan branch. Code found within this repository has not been maintained since December 2020. For more up to date code, please see publicly available repos by i-brnrd. 
 
 This repo was created prior to publication of the thesis and as such does not contain a direct link to full text of the thesis.
