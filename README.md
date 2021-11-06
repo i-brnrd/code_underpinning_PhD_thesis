@@ -1,7 +1,7 @@
 # code_underpinning_PhD_thesis
 This repository contains the code underpinning Isla Barnard's PhD Thesis:
 
-'Computational simulations of ultraviolet radiation penetration into human skin', 2021, University of St Andrews. 
+**'Computational simulations of ultraviolet radiation penetration into human skin', 2021, University of St Andrews.** 
 
 ![alt text](https://github.com/i-brnrd/code_underpinning_PhD_thesis/blob/main/images_mainrepo/smaller.png?raw=true)
 
@@ -9,7 +9,7 @@ This repository contains the code underpinning Isla Barnard's PhD Thesis:
 
 This repository was created to allow creation of a single DOI for the code underpinning the thesis. As such, this single repo contains code from several different individual repositories- however, in order to prevent conflicts, the git repos themselves have been deleted. Each repo, as it stood at publication, resides in a directory in this repository. Code found within this repository has not been maintained since December 2020 or earlier. For more up to date, maintained code, please see publicly available repos by i-brnrd. 
 
-Data produced by this code has been deposited in the PURE repository, found here: 
+Data produced by this code has been deposited in the PURE repository,hosted by the St Andrews Research Repository, found here: 
 https://doi.org/10.17630/b379c3f3-cc1c-497b-bd28-6c7dc0cc209d 
 
 This repo was created prior to publication of the thesis and as such, this README does not contain a direct link to full text of the thesis.
@@ -33,6 +33,6 @@ The alterations to the code as described in **Chapters 5 & 6** are found in **me
 ### Chapter 7: psoralen
 The code as described in **Chapter 7** is found in **psoralen**.
 
-### Chapter 8: UVC
-The code as described in **Chapter 8** is found in **UVC**.
+### Chapter 8: uvc
+The code as described in **Chapter 8** is found in **uvc**.
 
